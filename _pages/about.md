@@ -2,35 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Sophomore in Computer Science at Peking University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Peking University</p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # 关掉精选论文板块
+social: true # 保留底部的社交图标
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # 关掉新闻动态
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # 关掉博客板块
 ---
 
 Welcome to my homepage! I am a sophomore majoring in Computer Science at PKU.
 
-I have built a solid foundation in C++ and Python, and I've gained hands-on experience developing applications using the Qt framework through my course projects. Driven by a strong interest in AI and graphics, I have systematically studied Computer Vision (CV), Visual Computing (VCL), and CUDA parallel programming through my coursework.
+I have built a solid foundation in **C++** and **Python**, and I've gained hands-on experience developing applications using the **Qt** framework through my course projects. Driven by a strong interest in AI and graphics, I have systematically studied **Computer Vision (CV)**, **Visual Computing (VCL)**, and **CUDA parallel programming** through my coursework.
 
 As a student eager to learn and grow, I am actively looking for research or internship opportunities where I can apply my knowledge to real-world problems and continue to improve my skills. If you have any opportunities or advice to share, please feel free to reach out via email!
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
